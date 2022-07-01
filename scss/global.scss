@@ -1,0 +1,19 @@
+// color palette
+$cherry:  #F15254;
+$eggplant:#3A2557;
+
+a { color: $cherry; }
+
+// reset
+
+html,body {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue,
+    sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}

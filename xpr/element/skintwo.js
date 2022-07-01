@@ -1,0 +1,1 @@
+document.write('Sample JS Skin');
