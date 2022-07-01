@@ -14,7 +14,7 @@ export default function FirstPost() {
                 <p className="description">
                     Get started by editing <code>pages/index.js</code>
                 </p>
-                <Link href="/posts/second-post">
+                <Link href="/next-blog/second-post">
                     <a>Go to second post</a>
                 </Link>
                 <br/>
