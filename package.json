@@ -1,7 +1,7 @@
 {
   "private": true,
   "proxy": "https://www.expresia.com",
-	"homepage": "https://www.expresia.com/__xpr__/pub_engine/next/web/",
+	"homepage": "https://www.expresia.com/__xpr__/pub_engine/nextjs-blog/web/",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",

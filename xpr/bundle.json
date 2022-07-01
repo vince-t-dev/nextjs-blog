@@ -1,12 +1,11 @@
 {
     "templates" : [
         { 
-            "name" : "Next Template",
+            "name" : "Next Template 1.0",
             "element" : "template",
             "options" : { 
                 "live" : true
             }
         } 
-    ],
-    "skins" : []
+    ]
 }
